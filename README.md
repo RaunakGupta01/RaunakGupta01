@@ -67,22 +67,19 @@ Python • Machine Learning • Data Science • Node.js • Flask • SQL • G
 
 ---
 ## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RaunakGupta01)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RaunakGupta01&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakGupta01&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
+
+---
+
 ## 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=RaunakGupta01&theme=tokyonight" />
 </p>
----
-
-## 🔥 Streak Animation
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=RaunakGupta01&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
